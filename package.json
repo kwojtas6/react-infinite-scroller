@@ -6,7 +6,7 @@
   "jsnext:main": "src/InfiniteScroll.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/CassetteRocks/react-infinite-scroller.git"
+    "url": "git://github.com/kwojtas6/react-infinite-scroller.git"
   },
   "scripts": {
     "build": "mkdir -p dist && babel src/InfiniteScroll.js --out-file dist/InfiniteScroll.js",
@@ -30,7 +30,7 @@
   "author": "CassetteRocks",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CassetteRocks/react-infinite-scroller/issues"
+    "url": "https://github.com/kwojtas6/react-infinite-scroller/issues"
   },
   "dependencies": {
     "prop-types": "^15.5.8"
