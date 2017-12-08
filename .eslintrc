@@ -26,6 +26,13 @@
         "args": "after-used",
         "ignoreRestSiblings": false
       }
+    ],
+    "comma-dangle": [
+      "error",
+      "always-multiline",
+      {
+        "functions": "never"
+      }
     ]
   }
 }
